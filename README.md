@@ -27,6 +27,8 @@ The core gameplay remains true to the original, including snake movement, food g
 
 • Food Spawn Glitch: Occasionally, food may spawn underneath the snake. You will need to wait until the snake moves off it for it to be visible.
 
+• No win condition.
+
 ### **Installation & Usage**
 
 **1. Download the game files**  
