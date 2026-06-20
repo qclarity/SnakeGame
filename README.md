@@ -1,5 +1,5 @@
 # SnakeGame
-A simple Snake game built in Python using the turtle module.
+A simple Snake game built in Python using the turtle module
 
 ### **Snake Game** 🐍
 
